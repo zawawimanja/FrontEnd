@@ -1,0 +1,8 @@
+Single
+- getElementById()
+- querySelector()
+
+Multiple
+- getElementsByTagName()
+- getElementsByClassName()
+- querySelectorAll()
