@@ -2,8 +2,11 @@
 border-radius - create curves and shapes
 absolute position - to control and fix the element position.
 use browser dev tools -  help you for a live adjustment of degrees and pixel
+box-shadow to create depth.
 
-1. Face
+1. Face 
+mask unwanted part
+put correct html structure
 2. Hair
 3. Eyes
 4. Mouth and Brow
