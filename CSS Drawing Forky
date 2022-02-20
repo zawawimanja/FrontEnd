@@ -3,6 +3,7 @@ border-radius - create curves and shapes
 absolute position - to control and fix the element position.
 use browser dev tools -  help you for a live adjustment of degrees and pixel
 box-shadow to create depth.
+clip-path property remove the unwanted part
 
 1. Face 
 mask unwanted part
